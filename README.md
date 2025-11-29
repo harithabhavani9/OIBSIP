@@ -9,5 +9,10 @@ Shop effortlessly, add your favorites to the cart, and reach out to us for perso
 Let us help you decorate your dream home and experience the delight of truly exceptional furniture.
 
 TASK -2  Portfolio 
+      Welcome to my portfolio! Here you’ll discover my journey as a Mechanical Engineer who is passionate about web development and innovative digital solutions.With strong expertise in MERN stack, cloud computing, and programming languages like Python and Java, I create interactive websites and scalable applications.
+My projects range from e-commerce platforms to AI-powered chatbots, reflecting my commitment to leveraging technology for user-centric experiences. Explore my education, skills, and projects, and download my resume to learn more about my professional background
+
+TASK -3 Temperature converter 
+
 
 
