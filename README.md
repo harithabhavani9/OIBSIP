@@ -1,6 +1,6 @@
 # OIBSIP
 
-TASK -1 Landing Pag
+TASK -1 
 Landing Page Description for Furniture Website
 
 Discover elegant and quality furniture that transforms every space into a haven of comfort and style. Our landing page welcomes you to varied collections—from dining sets perfect for family gatherings, to plush chairs for relaxation, and functional study tables to enhance your workspace.
